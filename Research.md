@@ -22,6 +22,14 @@ Source: [[Articles/Notes/CEO Counterfactual Explanations for Ontologies.pdf]]
 
 // TODO
 
+#### Possible routes and directions
+
+// TODO
+
+#### Different ideas
+
+// TODO
+
 ### Is there any work that aimed at white-box approach to ontologies (not necessarily explainability)?
 
 - [[T-Box-ontology/Finding All Justifications of OWL DL Entailments.pdf]]
@@ -71,6 +79,10 @@ Source: [[Articles/Notes/CEO Counterfactual Explanations for Ontologies.pdf]]
 
 
 // TODO: Filter the articles
+
+// TODO
+
+#### How to work with ontologies (by parsing or other manipulations)?
 
 // TODO
 

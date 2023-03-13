@@ -17,14 +17,9 @@ It contains more than 150 articles in the references, it may be useful to check 
 ## Explainable Artificial Intelligence (XAI) Concepts, taxonomies, opportunities and challenges toward responsible AI
 Source: [[Explainable Artificial Intelligence (XAI) Concepts, taxonomies, opportunities and challenges toward responsible AI.pdf]]
 
-TODO: Do analysis
+Analyses the terminology and techniques used in **machine learning models**. It also defines the term "Responsible AI".
 
-****
-
-## Explainable artificial intelligence
-Source: [[Explainable artificial intelligence.pdf]]
-
-TODO: Do analysis
+**The survery aims at mostly on the deep models, so there is no much to do there.**
 
 ****
 
@@ -37,26 +32,16 @@ Prior knowledge represent the context information, often indicating the importan
 *Is prior knowledge applicable to ontology-based models?*
 It seems like the prior knowledge is represented by ontology's T-Box. The addition of other context information may be redundant (as we already have it).
 
-****
-
-## A Survey on the Explainability of Supervised Machine Learning
-Source: [[A Survey on the Explainability of Supervised Machine Learning.pdf]]
-
-TODO: Do analysis
 
 ****
+
 
 ## Argumentation and explainable artificial intelligence
 Source: [[Argumentation and explainable artificial intelligence.pdf]]
 
-TODO: Do analysis
+The work is focused on combining Argumentation with Explainable AI in the context of machine learning models.
 
-****
-
-## Peeking Inside the Black Box A Survey on Explainable Artificial Intelligence XAI
-Source: [[Peeking Inside the Black Box A Survey on Explainable Artificial Intelligence XAI.pdf]]
-
-TODO: Do analysis
+**The work is irrelevant**
 
 ****
 
@@ -68,28 +53,27 @@ Question: why the framework is explainable and how the achieved it?
 > A causal relationship between the features shows that changes in certain aspects induce changes in other features and that changes in the outcomes occur from the combined effect of both features
 
 The explainable part is generation counterfactuals based on greedy algorithms with prioritizing certain features.
-**I don't see the value for our research.**
+
+**The work is irrelevant.**
 
 ****
 
 ## Knowledge graphs as tools for explainable machine learning
 Source: [[Knowledge graphs as tools for explainable machine learning.pdf]]
 
-TODO: Do analysis
+The work is aimed at analysing how knowledge graphs can be used to build explainable machine learning models.
 
-****
-
-## A Survey on the Robustness of Feature Importance and Counterfactual Explanations
-Source: [[A Survey on the Robustness of Feature Importance and Counterfactual Explanations.pdf]]
-
-TODO: Do analysis
+**The work is irrelevant to the topic.**
 
 ****
 
 ## Completing and Debugging Ontologies State of the Art and Challenges
 Source: [[Completing and Debugging Ontologies State of the Art and Challenges.pdf]]
 
-TODO: Do analysis
+The page is focused on repairing the broken ontologies. The work can be quite useful, especially for: [[Approaches/WhiteBox]]
+
+**Useful survey for exploring how to fix broken ontologies and work with ontologies.**
+**The one way of further research is to find ways to detect errors.**
 
 ****
 
@@ -97,28 +81,26 @@ TODO: Do analysis
 Explanation Generation Methods for Explainable Artificial Intelligence
 Source: [[A Survey of Contrastive and Counterfactual Explanation Generation Methods for Explainable Artificial Intelligence.pdf]]
 
-TODO: Do analysis
-
-****
-
-## Explainable AI (XAI) Core Ideas, Techniques and Solutions
-Source: [[Explainable AI (XAI) Core Ideas, Techniques and Solutions.pdf]]
-
-TODO: Do analysis
+The survey contains an overview of existing approaches to generating counterfactuals, which may be useful.
 
 ****
 
 ## The Role of Human Knowledge in Explainable AI
 Source: [[The Role of Human Knowledge in Explainable AI.pdf]]
 
-TODO: Do analysis
+The work analyses and discusses the usage of human knowledge and "human reasonale" to enhance the explainability of the machine learning models.
+
+**The survey is unrelated and won't be used.**
 
 ****
 
 ## Explainable AI current status and future directions
 Source: [[Explainable AI current status and future directions.pdf]]
 
-TODO: Do analysis
+Its introduction contains useful links. It can be used for describing different approaches and existing techniques.
+Nevertheless, the approach and analysis itself are more about multimedia and specifically ML models.
+
+**The work may be used for writing introduction and field overview.**
 
 ****
 
@@ -128,20 +110,6 @@ Source: [[Deep models/Automated and Explainable Ontology Extension Based on Deep
 The paper contains automatic extension of the existing ontologies. The algorithm is applied onto the ontology in chemical domain. 
 
 **We can try checking implementation for [[WhiteBox]]**
-
-****
-
-## Explainable Case-Based Reasoning
-Source: [[Explainable Case-Based Reasoning.pdf]]
-
-TODO: Do analysis
-
-****
-
-## Counterfactual Explanations for eXplainable AI (XAI)
-Source: [[Counterfactual Explanations for eXplainable AI (XAI).pdf]]
-
-TODO: Do analysis
 
 ****
 
@@ -162,11 +130,17 @@ The existing articles provide manual way of knowledge matching.
 ## Counterfactuals and causability in explainable artificial intelligence Theory, algorithms, and applications
 Source: [[Counterfactuals and causability in explainable artificial intelligence Theory, algorithms, and applications.pdf]]
 
-TODO: Do analysis
+The survey aims at exploring existing algorithms and overview of use causability to make distinction between explanations. 
+
+> We extended the current literature by proposing a new taxonomy for model-agnostic counterfactuals based on six approaches: instance-centric, constraint-centric, genetic-centric, regression-centric, game theory-centric, case-based reasoning centric, and probabilistic-centric
+
+**The work is irrelevant.**
 
 ****
 
 ## Knowledge-graph-based explainable AI
 Source: [[Knowledge-graph-based explainable AI.pdf]]
 
-TODO: Do analysis
+The survey focuses on the usage of knowledge-graphs (KGs) in explainable AI. It ostly observes KGs as a tool to find and define relations between features, utilize reasoning for explaining ML models predictions, and other approaches that do not use KG directly for predictions.
+
+**The work is irrelevant yet still interesting.**

@@ -2,6 +2,10 @@ Source: [[CEO Counterfactual Explanations for Ontologies]]
 
 White-box approach that parses the hierachies and relations, and act upon the differences between initial and desired class. 
 
+Input: the entity, the desired class
+Output: set of changes for the individual
+
+
 ### Questions?
 
 - How do you create many counter-factuals?
@@ -17,3 +21,7 @@ White-box approach that parses the hierachies and relations, and act upon the di
 - It may be useful to check how protege calculates attributes and children ([source code](https://github.com/protegeproject/protege))
 - Checking owlready code is advised ([source code](https://bitbucket.org/jibalamy/owlready2/))
 
+
+
+### Useful literature
+- [[Ontology/Completing and Debugging Ontologies State of the Art and Challenges.pdf]]
