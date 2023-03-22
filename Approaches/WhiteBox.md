@@ -5,6 +5,15 @@ White-box approach that parses the hierachies and relations, and act upon the di
 Input: the entity, the desired class
 Output: set of changes for the individual
 
+The repairing should comply with the following conditions:
+- It can not change nonactionable relations, including class assertion
+- All changes should have the target individual as subject
+- It should generate different individuals as resulting action
+
+### Strategies
+- Specify non-actionable relations, including the class assertion
+- "Break" the ontology by inserting the desired class assertion
+- Generate several fixed individuals that will comply with the ontology
 
 ### Questions?
 

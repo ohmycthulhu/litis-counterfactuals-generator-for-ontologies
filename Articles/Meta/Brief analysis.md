@@ -81,7 +81,7 @@ The page is focused on repairing the broken ontologies. The work can be quite us
 Explanation Generation Methods for Explainable Artificial Intelligence
 Source: [[A Survey of Contrastive and Counterfactual Explanation Generation Methods for Explainable Artificial Intelligence.pdf]]
 
-The survey contains an overview of existing approaches to generating counterfactuals, which may be useful.
+The survey contains an overview of existing approaches to generating counterfactuals, which may be useful.****
 
 ****
 

@@ -3,18 +3,11 @@ Source: [[Articles/Notes/CEO Counterfactual Explanations for Ontologies.pdf]]
 
 ### Explainability for ontologies
 
-- [[Explainability-Ontology/Integrating Knowledge Graphs for Explainable Artificial Intelligence in Biomedicine.pdf]]
 - [[Explainability-Ontology/Explanation Ontology in Action A Clinical Use-Case.pdf]]
-- [[Explainability-Ontology/Towards Ontologically Explainable Classifiers.pdf]]
-- [[Explainability-Ontology/Towards Ontology-based Explainable Classification of Rare Events.pdf]]
-- [[Explainability-Ontology/Aligning Artificial Neural Networks and Ontologies towards Explainable AI.pdf]]
 - [[Explainability-Ontology/Knowledge graph-based rich and confidentiality preserving Explainable Artificial Intelligence.pdf]]
-- [[Explainability-Ontology/Using ontologies to enhance human understandability of global post-hoc explanations of black-box models.pdf]]
 - [[Explainability-Ontology/Knowledge Graph Embeddings and Explainable AI.pdf]]
 - [[Explainability-Ontology/Explainable Ontology-Based Intelligent Decision Support System for Business Model Design and Sustainability.pdf]]
-- [[Explainability-Ontology/Foundations of Explainable Knowledge-Enabled Systems.pdf]]
 - [[Explainability-Ontology/Explainable decision support through the learning and visualization of preferences from a formal ontology of antibiotic treatments.pdf]]
-- [[Explainability-Ontology/From Machine Learning to Explainable AI.pdf]]
 - [[Explainability-Ontology/Explanation Ontology A Model of Explanations for User-Centered AI.pdf]]
 
 
@@ -55,6 +48,8 @@ Source: [[Articles/Notes/CEO Counterfactual Explanations for Ontologies.pdf]]
 - [[T-Box-ontology/Automatic White-Box Testing of First-Order Logic Ontologies.pdf]]
 - [[T-Box-ontology/Explainable Deep RDFS Reasoner.pdf]]
 
+- [[An algorithm based on counterfactuals for concept learning in the Semantic Web.pdf]] - the work is aimed at using ML for assisting in creating ontologies. May be used in order to get methods on how to extract data from ontology.
+
 
 // TODO: Filter the articles
 
@@ -82,24 +77,13 @@ Source: [[Articles/Notes/CEO Counterfactual Explanations for Ontologies.pdf]]
 
 // TODO
 
-#### How to work with ontologies (by parsing or other manipulations)?
+#### How to work with ontologies (by parsing or FKn manipulations)?
 
 // TODO
 
 ### Did anyone else tried generating counter-factuals for ontologies?
 
-- [[Counterfactuals-Ontology/Natural necessity An introductory guide for ontologists.pdf]]
-- [[Counterfactuals-Ontology/Evolving Rule-Based Explainable Artificial Intelligence for Unmanned Aerial Vehicles.pdf]]
-- [[Counterfactuals-Ontology/Towards Human Understandable Explainable AI.pdf]]
-- [[Counterfactuals-Ontology/Directions for Explainable Knowledge-Enabled Systems.pdf]]
-- [[Counterfactuals-Ontology/Towards a Formalization of Explanations for Robots’ Actions and Beliefs.pdf]]
-- [[Counterfactuals-Ontology/The Use and Misuse of Counterfactuals in Ethical Machine Learning.pdf]]
-- [[Counterfactuals-Ontology/Highly explainable cumulative belief rule-based system with effective rule-base modeling and inference scheme.pdf]]
-- [[Counterfactuals-Ontology/An algorithm based on counterfactuals for concept learning in the Semantic Web.pdf]]
-- [[Counterfactuals-Ontology/Generating Counterfactual and Contrastive Explanations using SHAP.pdf]]
 
-
-// TODO: Filter articles
 
 // TODO
 
